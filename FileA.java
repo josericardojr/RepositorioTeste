@@ -4,4 +4,7 @@ public class FileA {
 
 	public void close(){
 	}
+
+	public void open(){
+	}
 }
